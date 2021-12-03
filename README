@@ -1,8 +1,7 @@
 
-This repo includes a variety of SQL queries based off sample datasets, included here in .csv format for reproducibility.
+This repo includes a variety of SQL queries based off of sample datasets, included here in .csv format for reproducibility.
 
-My experience is with IBM Db2 SQL through a variety of IDEs as well as SAS. I'll exclude any functions that aren't base
-SQL standard, as well as additional code that might compromise organizational secrecy for current/former employers. 
+My experience is with IBM Db2 SQL through a variety of IDEs as well as SAS. I'll try and avoid any functions that aren't base SQL standard.
 
-What this means is that the code I provide here wouldn't run in, say, SAS directly without additional parameters, 
-i.e. connecting to Db2; but all code has been tested and successfully implemented.
+All code has been tested and successfully implemented.
+
